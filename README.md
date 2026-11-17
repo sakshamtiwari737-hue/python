@@ -1,5 +1,8 @@
 # Online Food Ordering System (PS 44)
-
+**Name**: Saksham Tiwari
+**Class**: B.tech CSE Core,1st semester
+**ERP**: RU-26-02695
+**Section**: K
 A simple console-based food ordering program written in Python 3.
 The customer adds items to a cart, applies a coupon, and checks out to get a final bill.
 
